@@ -12,179 +12,179 @@ EventAbrirbedroom1.text,Agrega el tile 'Bedroom1' como se muestra en la figura. 
 EventAbrirbedroom1.button1,Continue
 Event0.text,Quita el token de explorador de esta puerta.
 Event0.button1,Continue
-Event1.text,Pon el tile Hall 1 y agrega los tokens como se muestra en la figura 
+Event1.text,Pon el tile 'Hall 1' y agrega los tokens como se muestra en la figura 
 Event1.button1,Continue
-Event2.text,"pon el tile 'Hall End' como se muestra en la figura.\nAgrega los iconos."
+Event2.text,"pon el tile 'Hall End' como se muestra en la figura.\nAgrega los ís."
 Event2.button1,Continue
-Event3.text,"Pon los exploradores en la entrada de la mansion. \nLos exploradores notan varios punados de ceniza por toda la entrada, no hay nada quemado, ningun rastro de fuego. Tan pronto todos entran se escucha un ruido raro y la puerta se cierra, la abres y algo tenia atorado, hay una especie de campo de fuerza invisible que te impide atravesar hacia fuera de la mansion."
+Event3.text,"Pon los exploradores en la entrada de la mansion. \nLos exploradores notan varios puñados de ceniza por toda la entrada, no hay nada quemado, ningún rastro de fuego. Tan pronto entran todos se escucha un ruido raro y la puerta se cierra, la intentas abrir y se siente atrancada, hay una especie de campo de fuerza invisible que te impide atravesar hacia afuera de la mansion."
 Event3.button1,Continue
 TokenTokenWarehouse.button1,Forzar puerta {action}
-EventAbrirWarehouse.text,"Hay un gran almacen frente a ti, te dan escalosfrios tan pronto abres la puerta, sin embargo el almacen se ve normal, seguramente solo es el frio. nada particularmente interesante aqui.\nPon el tile 'Warehouse' como se muestra en la figura. Pon el token de exploracion como se muestra en la figura.\n Quita el token de exploracion."
+EventAbrirWarehouse.text,"Hay un gran almacén frente a ti, te dan escalofríos tan pronto abres la puerta; Sin embargo, el almacén se ve normal, seguramente solo es el frío. Nada particularmente interesante aquí.\nPon el tile 'Warehouse' como se muestra en la figura. Pon el token de exploración como se muestra en la figura.\n Quita el token de exploración."
 TokenTokenWarehouse.text,Explora el siguiente cuarto.
 EventAbrirWarehouse.button1,Continuar
-TokenSearchMesaWarehouse.text,Una figura extrana llama tu atencion, tan fuera de lugar, tan lugubre, tan... te acercas a tomarla y sientes un cosquilleo en tu garganta, algo no esta bien aqui.
+TokenSearchMesaWarehouse.text,Una figura extraña llama tu atención, tan fuera de lugar, tan lúgubre, tan... te acercas a tomarla y sientes un cosquilleo en tu garganta, algo no está bien aquí.
 TokenSearchMesaWarehouse.button1,Recoger la figura {action}
 TokenTokenComedor.text,Abre la puerta.
 TokenTokenComedor.button1,{action} Abrir puerta
 EventIniciarComedor.button1,Continuar
-TokenTokenHallStairs.text,El camino a la puerta esta libre, hay movimiento por aqui.
+TokenTokenHallStairs.text,El camino a la puerta esta libre, hay movimiento por aquí.
 TokenTokenabrirLounge.button1,Abrir puerta {action}
-EventIniciarLounge.text,Coloca el tile 'Lounge' y quita el token de exploracion.
-TokenTokenabrirLounge.text,Una puerta de madera, Tienes la sensacion de que encontraras alguien dentro.
+EventIniciarLounge.text,Coloca el tile 'Lounge' y quita el token de exploración.
+TokenTokenabrirLounge.text,Una puerta de madera, Tienes la sensación de que encontrarás alguien dentro.
 EventIniciarLounge.button1,Continue
-TokenTokenTileBedroom2.text,Una puerta en buen estado (en lo que cabe)
+TokenTokenTileBedroom2.text,Una puerta en buen estado (dentro de lo que cabe)
 TokenTokenTileBedroom2.button1,{action} Abrir la puerta
-EventIniciarBedroomTile2.text,"El cuarto se siente seco, no parece haber mucho de interes aqui... espera, algo brilla bajo la cama.\npon los tokens como se muestra en la figura."
+EventIniciarBedroomTile2.text,"El cuarto se siente seco, no parece haber mucho de interés aquí... espera, algo brilla bajo la cama.\npon los tokens como se muestra en la figura."
 EventIniciarBedroomTile2.button1,Continue
 TokenTokenTileStudy.text,La puerta de madera se ve seca. 
 TokenTokenTileStudy.button1,Abrir puerta {action}
-EventIniciarStudio.text,"el cuarto fue utilizado no hace mucho, hay areas donde el polvo se ve menos concentrado. Alguien estuvo aqui.\nPon los tokens como se muestra en la figura."
+EventIniciarStudio.text,"el cuarto fue utilizado no hace mucho, hay áreas donde visiblemente el polvo se concentra menos. Alguien estuvo aquí.\nPon los tokens como se muestra en la figura."
 EventIniciarStudio.button1,Continue
 EventAbrirWarehouse2.button1,Continuar
-EventAbrirWarehouse2.text,"Le das una vista rapida al almacen, la ventana tiene unas marcas extranas.\nAgrega el token como se muestra en la figura."
-TokenPuertaLounge1.text,Una puerta vieja y atorada
+EventAbrirWarehouse2.text,"Le das una vista rápida al almacén, la ventana tiene unas marcas extrañas.\nAgrega el token como se muestra en la figura."
+TokenPuertaLounge1.text,Una puerta vieja, parece que está atrancada.
 TokenPuertaLounge1.button1,Abrir puerta {action}
-quest.description,ta bien vrgas sta madre
-EventAgregarTokenExploradorinicio.text,Agrega los token com se muestra en la figura
+quest.description,ta bien vrgas sta madre (???? XD)
+EventAgregarTokenExploradorinicio.text,Agrega los token como se muestra en la figura
 EventAgregarTokenExploradorinicio.button1,Continue
 EventIniciarComedor.text,"Un comedor grande, con una mesa larga para muchas personas, aqui debio haber vivido una familia grande.\nPon el tile 'Dining room' como se muestra en la figura. Coloca una pared como se muestra en la figura."
 TokenTokenHallStairs.button1,{action} Abrir puerta
-EventIniciarHallStairs.text,Se ve una escalera al segundo piso, pon el tile Hall Stairs y el icono como se muestra
+EventIniciarHallStairs.text,Se ve una escalera con dirección al segundo piso, pon el tile 'Hall Stairs' y el ícono como se muestra
 EventIniciarHallStairs.button1,Continue
-Token2.text,Frente a ti un bao abierto. Te asomas por el pasillo a tu derecha el pasillo continua. pon los token com se muestra en la figura
+Token2.text,Frente a ti un baño abierto. Te asomas por el pasillo a tu derecha, el pasillo continúa. Pon los token como se muestra en la figura
 Token2.button1,Continue
 TokenTokenAttic.button1,{action} Abrir puerta
 TokenVistaPasillaFinal.button1,Continue
 TokenTokenAttic.text,Una puerta al final del pasillo.
 TokenVistaPasillonoFinal.text,Una puerta
 TokenTokenLibrary.button1,{action} Abrir puerta
-TokenSearchBanera.text,La banera parece tener oxido seco, No sabes de donde podria venir, puedes acercarte a investigar.
-EventIniciarLibreria.text,"Desde que abres la puerta sientes una presencia en el lugar, no lo ves, no lo escuchas pero sabes que esta ahi y ahora esta libre.\nPon el tile 'Library' como se muestra en la figura. "
+TokenSearchBanera.text,La bañera parece tener un óxido seco, No sabes de donde podría venir, puedes acercarte a investigar.
+EventIniciarLibreria.text,"Desde que abres la puerta sientes una presencia en el lugar, no lo ves, no lo escuchas pero sabes que esta ahí y ahora está libre.\nPon el tile 'Library' como se muestra en la figura."
 EventIniciarLibreria.button1,Continue
-TokenTokenLibrary.text,Esta puerta parece en mejor condicion... que extrano.
+TokenTokenLibrary.text,Esta puerta parece en mejor condición... que extraño.
 TokenSearchBanera.button1,{action} Investigar
-EventSearchBanera.text,Mueves la cortina, te acercas y tomas un poco de oxido con tus dedos; la piel se te pone de gallina, la puerta se cierra de golpe y el cortinero de la banera se sale de su lugar y como si estuviese vivo da dos pasos y se atora con la puerta, estas encerrado. Roll {strength}
+EventSearchBanera.text,Mueves la cortina, te acercas y tomas un poco de óxido con tus dedos; la piel se te pone de gallina, la puerta se cierra de golpe y el cortinero de la bañera se sale de su lugar; Como si estuviese vivo, da dos pasos y se atora con la puerta. Estas encerrado. Roll {strength}
 EventSearchBanera.button1,Desatorar el cortinero 
-TokenOtto.button1,Todos estamos presente, que pasa? {action}
+TokenOtto.button1,Todos estamos presente, ¿qué pasa? {action}
 EventIniciarAtico.button1,Continue
-TokenSearchVentana2nodpiso.button1,Observar con atencion {action}
-EventIniciarTokenSearchVentana2ndopiso.text,"Esta ventana tiene una buena vista alrededor, bien podrias cuidar el terreno desde este sitio. Pon un Icono de investigacion (???) como se muestra en la figura.\n"
+TokenSearchVentana2nodpiso.button1,Observar con atención {action}
+EventIniciarTokenSearchVentana2ndopiso.text,"Esta ventana tiene una buena vista alrededor, bien podrías cuidar el terreno desde este sitio. Pon un ícono de investigacion (???) como se muestra en la figura.\n"
 TokenSearchVentana2nodpiso.text,La ventana da hacia el cementerio.
 EventIniciarTokenSearchVentana2ndopiso.button1,Continue
-TokenStudypapers.text,Un monton de papeles en el escritorio, tal vez haya algo de interes aqui.
-EventStudyPapers.text,|||Todos los papeles hablan de una especie de ritual, todos se parece mucho entre si, hablan de 4 "faros" pero el ritual en si cambia entre uno y otro, las hojas no estan tan sucias no tiene mucho tiempo que estuvieron aqui, al menos no a comparacion del resto de la mansion. Recibe 2 pistas, retira el icono.|||
-EventDescubrirOtto.text,"Encuentras un hombre alto, delgado, demacrado, con bolsas bajo sus ojos, una barba larga amarrada tras su nuca y una mirada de esperanza.\nPon el token de un hombre como que se muestra en la figura, este token representa Otto."
+TokenStudypapers.text,Un montón de papeles en el escritorio, tal vez haya algo de interés aquí.
+EventStudyPapers.text,|||Todos los papeles describen una especie de ritual, se parecen mucho entre si, pero los detalles del procedimiento varían entre uno y otro, hablan de 4 "faros". Las hojas no estan tan sucias, no hace mucho tiempo que alguién estuvo aquí, al menos no a comparacion del resto de la mansión. Recibe 2 pistas, retira el ícono.|||
+EventDescubrirOtto.text,"Encuentras un hombre alto, delgado, demacrado, con bolsas bajo sus ojos, una barba larga amarrada tras su nuca y una mirada de esperanza.\nPon el token de un hombre como que se muestra en la figura, este token representa a Otto."
 EventDescubrirOtto.button1,Continue
-EventAticoCerrado.text,"La puerta esta cerrada con llave. Se escucha un grito quebrado del otro lado de la puerta.\n- !Vayanse, dejenme en paz! - dice la voz.\n- Solo quiero hablar - respondes.\n-Espera, eres una persona?- inquiere la voz.\n-Que quieres decir?- preguntas.\n-Te abro, te abro- te responden."
+EventAticoCerrado.text,"La puerta esta cerrada con llave. Se escucha un grito quebrado del otro lado de la puerta.\n- !Váyanse, dejenme en paz! - dice la voz.\n- Solo quiero hablar - respondes.\n-Espera, ¿eres una persona?- inquiere la voz.\n-¿Qué quieres decir?- preguntas.\n-Te abro, te abro- te responden."
 EventAticoCerrado.button1,Continue
 TokenSearchVentana1.text,El marco de la ventana se ve razgado, puedes acercarte a investigar.
 TokenSearchVentana1.button1,Investigar {action}
-Eventventanaentrada.text,"Todo alrededor esta lleno de ceniza, de donde sale toda esta ceniza? (Recibe una pista).\nLa madera del marco de la ventana se ve estrujada por lo que parecen manos. Remueve el token."
+Eventventanaentrada.text,"Todo alrededor está lleno de ceniza, ¿de donde sale toda esta ceniza? (Recibe una pista).\nLa madera del marco de la ventana se ve estrujada por lo que parecen huellas de manos. Remueve el token."
 Eventventanaentrada.button1,Continue
-EventWarehouseOesteEsquinaEventToken.text,Te acercas a tomar la estuatilla, entre mas te acercas mas dificil es acercarse, una fuerza te regresa. Puedes intentar ser rapido o forzar el acercamiento. roll {strength} o {agility}.
+EventWarehouseOesteEsquinaEventToken.text,Te acercas a tomar la estatuilla, entre más intentas acercarte, más difícil es, una fuerza te empuja hacia atrás. Puedes intentar ser rápido o forzar el acercamiento. roll {strength} o {agility}.
 EventWarehouseOesteEsquinaEventToken.button1,Continue
-EventIniciarAtico.text,"El atico huele horrible, humedo, huele a mierda y orines, pronto notas una esquina donde estan los deshechos, te preguntas por que aqui, hay banos en la casa.\nPon el tile 'Attic' como se muestra en la figura. Quita el token de exploracion."
-EventOttoHabla1.text,Otto, cansado y desesperanzado empieza a hablar con tono de preocupacion -Esta casa esta maldita, la puerta no abre, las ventanas tienen una barrera invisible, es posible entrar pero no salir. Lo peor son los no muertos que vienen a buscarme, vienen a buscar esta maldita cosa.- Otto saca de su bolsillo una pequena caja aparentemente ordinaria.
+EventIniciarAtico.text,"El ático huele horrible, húmedo, huele a mierda y orines, pronto notas la esquina donde estan los deshechos, te preguntas por qué aquí, hay baños en la casa.\nPon el tile 'Attic' como se muestra en la figura. Quita el token de exploración."
+EventOttoHabla1.text,Otto, cansado y desesperanzado empieza a hablar con tono de preocupación -Esta casa esta maldita, la puerta no abre, las ventanas tienen una barrera invisible, es posible entrar, pero no salir. Lo peor son los no muertos que vienen a buscarme, vienen a buscar esta maldita cosa.- Otto saca de su bolsillo una pequeña caja de ordinaria apariencia.
 EventOttoHabla1.button1,Continue
-EventOttoHabla2.text,Tomenla (Un explorador recibe el key item 'Conclusive Evidence'), de alguna forma esta conectada a unas figuras de piedra extranas que recogi de unos santuarios abandonados. Los avente tan lejos como pude, alrededor de la casa y desde entonces estoy aqui encerrado, gracias a dios los no muertos ya no vienen tan seguido, pero ya no tengo comida y solo me queda un poco mas de agua, ayudenme a salir o moriremos todos aqui.
+EventOttoHabla2.text,Tómenla (Un explorador recibe el key item 'Conclusive Evidence'), de alguna forma esta conectada a unas figuras de piedra extrañas que recogí de unos santuarios abandonados. Los aventé tan lejos como pude, alrededor de la casa y desde entonces estoy aqui encerrado, gracias a dios los no muertos ya no vienen tan seguido, pero ya no tengo comida y solo me queda un poco más de agua, ayúdenme a salir o moriremos todos aquí.
 EventOttoHabla2.button1,Continue
-TokenOtto.text,No sabes el gusto que me da ver a alguien mas aqui. Hay mas personas en la casa? trae a todos tengo algo importante que contarles. No puedo hablar antes de eso.
-EventVentana2doPiso.text,Es la unica vista que Otto ha tenido hacia afuera desde lo que parece ser un tiempo considerable, buscas algo de interes particular. Roll {observation}
+TokenOtto.text,No sabes el gusto que me da ver a alguien más aquí. ¿Hay más personas en la casa? ¡Trae a todos! Tengo algo importante que contarles. No puedo hablar antes de eso.
+EventVentana2doPiso.text,Es la única vista que Otto ha tenido hacia afuera desde lo que parece ser un considerable tiempo, buscas algo de interés particular. Roll {observation}
 EventVentana2doPiso.button1,Continuar
 TokenBajolacama.text,Parece que hay algo brillante bajo la cama, no lo alcanzas, tienes que mover toda la cama.
 TokenBajolacama.button1,Empujar Cama {action}
 Puzzle0.button1,Guess
 EventEmpujarCama.text,La cama parece estar atascada con algo, Empujas con toda tu fuerza. roll {strength}.
 EventEmpujarCama.button1,Continuar
-EventMoverCamaSuccess.text,"La cama parecia estar pegada, como si el piso fuese un fuerte iman.\nEl brillo bajo la cama es una pequena estuatilla (obten el key item 'Grotesque Stone')."
+EventMoverCamaSuccess.text,"La cama parecia estar pegada, como si el piso fuese un fuerte imán.\nEl brillo bajo la cama es una pequena estatuilla (obten el key item 'Grotesque Stone')."
 EventMoverCamaSuccess.button1,Continuar
-EventMoverCamaFail.text,La cama esta pegada, por un momento sientes que se levanta pero algo la jala de regreso, no sabes bien que esta pasando.
+EventMoverCamaFail.text,La cama está pegada, por un momento sientes que se levanta pero algo la jala de regreso, no sabes precisamente qué está pasando.
 EventMoverCamaFail.button1,Continue
 TokenOtto2.text,segunda conversacion
 TokenOtto2.button1,Continue
-EventWarehouseMesaSuccess.text,Por fin alcanzas la pieza (Toma el key item 'Grotesque Stone'), sientes como la figura de piedra palpita en tu mano. Recibe 2 de dano mental ({will} negates).
+EventWarehouseMesaSuccess.text,Por fin alcanzas la pieza (Toma el key item 'Grotesque Stone'), sientes como la figura de piedra palpita en tu mano. Recibe 2 de daño mental ({will} negates).
 EventWarehouseMesaSuccess.button1,Continue
-EventWarehouseMesaFail.text,Esta fuerza misteriosa te rebota de regreso, la figura te llama, no la puedes dejar ir... no asi. (si es la segunda vez que fallas esta ronda recibes 1 de dano fisico boca abajo)
+EventWarehouseMesaFail.text,Esta fuerza misteriosa te rebota de regreso, la figura te llama, no la puedes dejar ir... no así. (si es la segunda vez que fallas esta ronda recibes 1 de dano fisico boca abajo)
 EventWarehouseMesaFail.button1,Continue
-EventGargolaSuccess.text,"Das una buena vista desde la ventana son las espaldas de algunas lapidas dañadas y los cuerpos de dos perros a mitad de ciclo de putrefacción. Los gusanos seguro se están alimentando bastante bien.\nYa no ves a la gargola horripilante, tenías absoluta certeza que estaba ahí. Recibe uno de daño mental boca abajo (Will negates). Recibe dos pistas. Retira el icono."
+EventGargolaSuccess.text,"Das una buena vista desde la ventana. Son las espaldas de algunas lapidas dañadas y los cuerpos de dos perros a mitad de ciclo de putrefacción. Los gusanos seguro se están alimentando bastante bien.\nYa no ves a la gárgola horripilante, tenías absoluta certeza que estaba ahí. Recibe uno de daño mental boca abajo (Will negates). Recibe dos pistas. Retira el ícono."
 EventGargolaSuccess.button1,Continue
-EventGargolaFail.text,"Lo poco que puedes observar desde esta ventana son las espaldas de algunas lapidas dañadas y los cuerpos de dos perros a mitad de ciclo de putrefacción. Los gusanos seguro se están alimentando bastante bien.\nYa no ves a la gargola horripilante, tenías absoluta certeza que estaba ahí... La Gargola aparece frente a ti, te ve directamente a los ojos, te caes hacia atras de la sorpresa y esta vuela hacia arriba, la pierdes de vista y ya no se encuentra en ninguna parte. Recibe 2 de daño mental (Will negates). Recibe una pista. Retira el icono."
+EventGargolaFail.text,"Lo poco que puedes observar desde esta ventana son las espaldas de algunas lapidas dañadas y los cuerpos de dos perros a mitad de ciclo de putrefacción. Los gusanos seguro se están alimentando bastante bien.\nYa no ves a la gárgola horripilante, tenías absoluta certeza que estaba ahí... La gárgola aparece frente a ti, te ve directamente a los ojos, te caes hacia atras de la sorpresa y la creatura vuela hacia arriba, la pierdes de vista y ya no se encuentra en ninguna parte. Recibe 2 de daño mental (Will negates). Recibe una pista. Retira el ícono."
 EventGargolaFail.button1,Continue
 TokenStudypapers.button1,Investigar {action}
 EventStudyPapers.button1,Continue
-TokenPuertaProhibida.text,Esta puerta tiene una silla trabando la puerta, tambien tiene pasador. Definitivamente no querian que nadie pasara por aqui.
+TokenPuertaProhibida.text,Esta puerta tiene una silla trabando la puerta, tambien tiene pasador. Definitivamente no querían que nadie pasara por aquí.
 TokenPuertaProhibida.button1,Buscar mas detalles {action}
-EventPuertaProhibida.text,Este lleno de ceniza por todo alrededor de la puerta, el marco de la puerta tiene una mano dibujada con ceniza, no se ve natural, algo paso aqui. Recibe 1 pista. Quite al Token
+EventPuertaProhibida.text,Está lleno de ceniza por todo alrededor de la puerta, el marco tiene una mano dibujada con ceniza, no se ve natural, algo paso aquí. Recibe 1 pista. quita el token.
 EventPuertaProhibida.button1,Continue
-TokenTokenSearchMesa2.text,Se vuelve a intentar tomar la estuatilla. Rapido o fuerte, tu decision. roll {strength} o {agility}.
+TokenTokenSearchMesa2.text,Se vuelve a intentar tomar la estatuilla. Rápido o fuerte, tu decisión. roll {agility} o {strength}.
 TokenTokenSearchMesa2.button1,Continuar {action}
-EventAbrirWarehouse3.text,"Hay una barrote de este lado, te sientes inseguro, desprotegido, seguramente funcionaria como un arma decente.\nAgrega el token como se muestra en la figura."
+EventAbrirWarehouse3.text,"Hay una barrote de este lado, te sientes inseguro, desprotegido, seguramente funcionaría como un arma decente.\nAgrega el token como se muestra en la figura."
 EventAbrirWarehouse3.button1,Continuar
 TokenWarehouseArma.button1,Recoger el barrote {action}
-EventAbrirWarehouse4.text,"De repente capta tu atencion una... presencia... un algo... no sabes que es pero algo en esa mesa... hay algo en esa mesa, no sabes que es pero sientes algo ahi, debes acercarte; TIENES QUE ACERCARTE.\nAgrega el token como se muestra en la figura.\nRoll {will}"
-EventRecogerBarrote.text,Tomas el barrote (Obtienes el Common Item '2x4'). Estar cargando algo con que defenderte te hace sentir mas seguro, tal vez mas de lo que deberia. Cura 1 de dano mental. 
+EventAbrirWarehouse4.text,"De repente capta tu atención una... ¿presencia? Algo... No sabes que es, pero hay algo en esa mesa, debes acercarte; TIENES QUÉ ACERCARTE.\nAgrega el token como se muestra en la figura.\nRoll {will}"
+EventRecogerBarrote.text,Tomas el barrote (Obtienes el Common Item '2x4'). Estar cargando algo con qué defenderte te hace sentir más seguro, tal vez más de lo que debería. Cura 1 de daño mental. 
 EventRecogerBarrote.button1,Continue
-TokenWarehouseArma.text,Un barrote en buen estado... Cualquier cosa es mejor a estar sin un arma.
+TokenWarehouseArma.text,Un barrote en buen estado... Cualquier cosa es mejor que estar sin un arma.
 EventAbrirWarehouse4.button1,Continuar
-EventWarehouseResistWill.text,Das un suspiro largo y te recompones este lugar te pone de nervios.
+EventWarehouseResistWill.text,Das un suspiro largo y te recompones, este lugar te pone de nervios.
 EventWarehouseResistWill.button1,Continue
 EventWarehouseResistFail.text,No... puedes... controlarte. (si tienes otra accion es usada para acercarse a la mesa).
 EventWarehouseResistFail.button1,Continue
 TokenCenizaPasillo.button1,Continue
-Event4.text,No te toma tiempo darte cuenta el estado del lugar, sucio, polovieronto, abandonado. Ceniza por todas partes, nada quemado. La puerta misma, tiene pedazos de madera recien arrancados, al menos eso parece. Pon un token de investigacion como se muestra en la figura.
+Event4.text,No te toma tiempo darte cuenta el estado del lugar, sucio, polvoriento, abandonado. Ceniza por todas partes, nada quemado. La puerta misma, tiene pedazos de madera recien arrancados, al menos eso parece. Pon un token de investigación como se muestra en la figura.
 EventCortineroSuccess.text,Lo golpeas y sale volando, sales del bano tan rapido como puedes,  tu corazon los sientes agitado. No volveras a entrar ahi. Retira el token.
 EventCortineroSuccess.button1,Continue
-EventCortineroFail.text,El cortinero no se mueve, empiezas a temblar, sientes claramente como una presencia te abraza, un miedo enorme se apodera de ti (recibe 1 de dano mental), desesperado sigues tratando de mover el cortinero hasta que por fin se desatora y sales tan rapido como puedes de la banera, nunca volveras a poner un pie ahi dentro. Quita el token
+EventCortineroFail.text,El cortinero no se mueve, empiezas a temblar, sientes claramente como una presencia te abraza, un miedo enorme se apodera de ti (recibe 1 de daño mental), desesperado sigues tratando de mover el cortinero hasta que por fin se desatora y sales tan rápido como puedes de la bañera, nunca volverás a poner un pie ahi dentro. Quita el token.
 EventCortineroFail.button1,Continue
-TokenCenizaPasillo.text,"Un punado de ceniza (Recibe una pista)...\nQuita el token (No gastas una accion en esto)."
+TokenCenizaPasillo.text,"Un puñado de ceniza (recibe una pista)...\nQuita el token (No gastas una acción al hacer esto)."
 Event4.button1,Continue
 TokenPuertaEntrada.text,El marco de la puerta se ve bastante danado. Puedes intentar ver la consistencia del marco.
 TokenPuertaEntrada.button1,Arrancar un pedazo de madera del marco {action}
-EventPuertaEntrada.text,Agarras con tus manos un pedazo del marco de la puerta, la jalas para ver con que facilidad se suelta. roll {strength}
+EventPuertaEntrada.text,Agarras con tus manos un pedazo del marco de la puerta, la jalas para probar la dificultad que representa quitarlo. roll {strength}
 EventPuertaEntrada.button1,Continue
-EventPuertaEntrada0.text,Intentas arrancar un pedazo de madera del marco de la puerta con tus propias manos, es imposible, haya pasado lo que haya pasado, alguien se debio tomo el tiempo de usar una herramienta aqui. Retira el icono.
+EventPuertaEntrada0.text,Intentas arrancar un pedazo de madera del marco de la puerta con tus propias manos, es imposible, lo que haya sucedido, alguien se debió tomo el tiempo de usar una herramienta aqui. Retira el ícono.
 EventPuertaEntrada0.button1,Continue
-EventPuertaEntrada1.text,Arrancas con tus manos una astilla gruesa de la madera, no fue facil... este marco debe ser roble, algo o alguien ha tallado algo bastante filoso pues faltan partes en algunas áreas y bastantes astillas sobresalen de la madera de este. Recibe una pista. Retira el icono.
+EventPuertaEntrada1.text,Arrancas con tus manos una astilla gruesa de la madera, no fue fácil... este marco debe ser roble, algo o alguien ha tallado algo bastante filoso pues faltan partes en algunas áreas y bastantes astillas sobresalen de la madera de este. Recibe una pista. Retira el ícono.
 EventPuertaEntrada1.button1,Continue
-EventPuertaEntrada2.text,Arrancas con tus manos una astilla gruesa de la madera, la madera por dentro parece en buen estado, hueles la madera y tiene un aroma pútrido. Notas el mueble, aquel con las hojas, tiene los mismos rasguños, por alguna razon recuerdas las historias del 'chupa cabras'. Recibe dos pistas. Retira el icono.
+EventPuertaEntrada2.text,Arrancas con tus manos una astilla gruesa de la madera, el interior parece en buen estado, aunque tiene un aroma pútrido. Notas el mueble, aquel con las hojas, tiene los mismos rasguños, por alguna razon recuerdas las historias del 'chupa cabras'. Recibe dos pistas. Retira el ícono.
 EventPuertaEntrada2.button1,Continue
-TokenElderSignPendant.text,Hay un pequeno altar aqui, con lo que parece un pequeno collar en el centro del mismo altar, no sabes que hace en medio de este lugar. Te tranquiliza saber que el viaje no ha sido en vano, este tipo de artilugios se venden a buen precio.
+TokenElderSignPendant.text,Hay un pequeño altar aquí, con lo que parece un pequeño collar en el centro, no sabes que hace en medio de este lugar. Te tranquiliza saber que el viaje no ha sido en vano, este tipo de artilugios se venden a buen precio.
 TokenElderSignPendant.button1,Tomar el pendiente {action}
-EventTomarpendiente.text,"Tan pronto recoges el pendiente el pequeno altar se despedaza sin razon. Tienes un mal presentimiento (Obtienes el common item 'Elder sign Pendant\n' y el unique item 'Ritual Components\n')."
+EventTomarpendiente.text,"Tan pronto recoges el pendiente el pequeño altar se despedaza sin razón. Tienes un mal presentimiento (Obtienes el common item 'Elder sign Pendant\n' y el unique item 'Ritual Components\n')."
 EventTomarpendiente.button1,Continue
 EventTomarPendiente2.text,Te sientes revitalizado, este pendiente tiene un poder sobrenatural (el portador recibe 2 dados extra en rolls de {strength})
 EventTomarPendiente2.button1,Continue
-EventIniciarLounge2.text,Esta sala esta repleta de polvo y punados de ceniza. Las ventanas estan quebradas
+EventIniciarLounge2.text,Esta sala esta repleta de polvo y puñados de ceniza. Las ventanas están quebradas.
 EventIniciarLounge2.button1,Continuar
-EventIniciarLounge3.text,Ves un pequeno altar arbitrariamente en el piso.
+EventIniciarLounge3.text,Ves un pequeño altar arbitrariamente en el piso.
 EventIniciarLounge3.button1,Continue
-TokenGrifoCocina.text,Un grifo de agua que parece empezo a gotear desde que le pusiste la mirada.
+TokenGrifoCocina.text,Un grifo de agua que aparentemente comenzó a gotear desde que le pusiste la mirada.
 TokenGrifoCocina.button1,Investigar {action}
 EventGrifo.button1,Continue
-EventIniciarComedor2.text,Por alguna razon te llama la atencion un grifo que se alvanza a ver en la cocina. Coloca el token como se muestra en la figura.
-EventGrifo.text,Del grifo se ven caer gotas de agua con residuos de óxido por lo que esta toma un color marron y al caer en el lavabo deja un poco del metal que contiene. Al abrir la llave esta solo libera de golpe una plasta de lodo para después pasar a aire y finalmente nada. Seguro nadie puede beber esto.  Recibe una pista. Retira el token.
+EventIniciarComedor2.text,Por alguna razón te llama la atención un grifo que se alcanza a ver en la cocina. Coloca el token como se muestra en la figura.
+EventGrifo.text,Del grifo se ven caer gotas de agua con residuos de óxido por lo que esta toma un color marrón y al caer en el lavabo deja un poco del metal que contiene. Al abrir la llave, el grifo libera de golpe una plasta de lodo, después aire y finalmente nada. Seguro nadie puede beber esto. Recibe una pista. Retira el token.
 EventIniciarComedor2.button1,Continue
 EventIniciarLibreria2.button1,Continue
-TokenEspejo.text,El espejo es hermoso, la reflexion es hermosa, todo a traves del espejo es mejor, podrias pasar horas contemplando el mundo a traves del espejo.
-EventIniciarLibreria2.text,Miras un bello espejo con un marco decorado, es raro ver algo de este valor en una casa que parece abandonada o cuando poco descuidada. Coloca un token de busqueda representando el espejo.
-TokenEspejo.button1,Acercarte mas al espejo {action}
-EventEspejo.text,Te encuentras mirándote en el espejo y logras observar a través de este como un compañero tuyo ingresa a la misma habitación y te dice que ya pueden salir de la casa sin problemas. Giras al instante sorprendido ante tal afirmación. Te das cuenta que realmente no hay nadie contigo en el cuarto. De hecho, escuchas las voces de tus acompañantes fuera de esa habitación. Recibe 2 de daño mental boca abajo (Will negates). Recibe una pista. Decides apartar la vista a pesar de haber visto algo mas en el espejo. 
+TokenEspejo.text,El espejo es hermoso, la reflexión es hermosa, todo a traves del espejo es mejor, podrias pasar horas contemplando el mundo a traves del espejo.
+EventIniciarLibreria2.text,Miras un bello espejo con un marco decorado, es raro ver algo de este valor en una casa que parece abandonada o cuando poco descuidada. Coloca un token de búsqueda representando el espejo.
+TokenEspejo.button1,Acercarte más al espejo {action}
+EventEspejo.text,Te encuentras mirándote en el espejo y logras observar a través de este como un compañero tuyo ingresa a la misma habitación y te dice que ya pueden salir de la casa sin problemas. Giras al instante sorprendido ante tal afirmación. Te das cuenta que realmente no hay nadie contigo en el cuarto. De hecho, escuchas las voces de tus acompañantes fuera de esa habitación. Recibe 2 de daño mental boca abajo (Will negates). Recibe una pista. Decides apartar la vista a pesar de haber visto algo más en el espejo. 
 EventEspejo.button1,Continue
-TokenEspejo2.text,Contemplas el espejo indeciso si volveras a ver su reflejo.
-TokenEspejo2.button1,Una vez mas {action}
-EventEspejoPt2.text,Ves, a traves del espejo, una pequena estuatilla grotesca, parada e inerte detras de ti, pegada casi a la otra pared, te volteas y no la ves, vuelves a ver al espejo y sigue ahi. Das unos pasos hacia atras sin dejar de ver el espejo y con tu mano sin apartar la vista tomas la figura de piedra, la volteas a ver en tu mano y es mas horrible incluso de lo que se miraba a traves del espejo. (Obten el unique item 'grotesque stone'). Vuelves a ver el reflejo del espejo pero ya regresa a ser un espejo ordinario, el mundo ya no es mas hermoso a traves de este. Retira el token espejo.
+TokenEspejo2.text,Contemplas el espejo indeciso si volverás a ver su reflejo.
+TokenEspejo2.button1,Una vez más {action}
+EventEspejoPt2.text,Ves, a través del espejo, una pequeña estatuilla grotesca, parada e inerte detras de ti, casi pegada a la pared reflejada, te volteas y no la ves, vuelves a ver al espejo y sigue ahí. Das unos pasos hacia atrás sin dejar de ver el espejo y con tu mano, sin apartar la vista, tomas la figura de piedra, la volteas a ver en tu mano y es incluso más horrible de lo que se reflejaba. (Obten el unique item 'grotesque stone'). Vuelves a ver el reflejo del espejo pero el mundo ya no es más hermoso a traves de este, ha regresado a ser un espejo ordinario. Retira el token espejo.
 EventEspejoPt2.button1,Continue
 TokenEscritorioMagia.button1,Abrir escritorio {action}
-EventMagiaEscritorioFail.text,El escritorio se agita bruscamente. Sientes una de tus manos ardiendo en calor, como si estuviese prendida en fuego (recibe 1 de danio fisico), algo salio mal en la neutralizacion del hechizo. 
-EventEscritorioFigura.text,El escritorio empieza a vibrar mas conforme te acercas, debe haber una especie de artilugio magico aqui, sientes la energia mistica mas concentrada en uno de los cajones. roll {lore}
+EventMagiaEscritorioFail.text,El escritorio se agita bruscamente. Sientes una de tus manos ardiendo en calor, como si estuviese prendida en fuego (recibe 1 de daño fisico), algo salió mal en la neutralización del hechizo. 
+EventEscritorioFigura.text,El escritorio empieza a vibrar más conforme te acercas, debe haber una especie de artilugio mágico aquí, sientes que la energía mística está concentrada en uno de los cajones. roll {lore}
 EventEscritorioFigura.button1,Neutralizar hechizo y abrir escritorio {action}
-EventMagiaEscritorioSuccess.text,Logras disipar la energia, el escritorio se calma, un sonido, parecido a un ahogado latido se escucha dentro de uno de los cajones. Lo abres y encuentras una pequena figura grotesca dentro, todavia se siente la energia mistica dentro de ella. (). Quita el token.
+EventMagiaEscritorioSuccess.text,Logras disipar la energia, el escritorio se calma, un sonido, parecido a un ahogado latido se escucha dentro de uno de los cajones. Lo abres y encuentras una pequeña figura grotesca dentro, todavia se siente la energia mística dentro de ella. Quita el token.
 EventMagiaEscritorioSuccess.button1,Continue
-TokenEscritorioMagia.text,El escritorio sigue temblando. Solo hay una manera de saber que esta pasando.
+TokenEscritorioMagia.text,El escritorio sigue temblando. Solo hay una manera de saber qué está pasando.
 EventMagiaEscritorioFail.button1,Continue
 TokenVistaPasillaFinal.text,Agrega el tile 'Alley End' como se muestra, pon los token como se muestra.
 TokenVistaPasillonoFinal.button1,Abrir puerta {action}
-EventIniciarOficina.text,Oficina escritorio tiembla, quie pedo?
+EventIniciarOficina.text,Oficina escritorio tiembla, ¿que pedo? (xd)
 EventIniciarOficina.button1,Continue
 TokenPrueba.button1,Button1
 TokenPrueba.text,prueba
